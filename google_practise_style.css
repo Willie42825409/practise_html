@@ -1,0 +1,43 @@
+body{
+    margin:0px;
+}
+#header{
+    margin:0px;
+    height: 60px;
+}
+a{
+  text-decoration:none;
+  color:gray;
+}
+.header1-1{
+  margin-top:15px;
+  margin-left:15px;
+  float:left;
+}
+.header1-2{
+  margin-left:74.5%;
+  float:left;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.googleimg{
+    float:none;
+    text-align: center;
+}
+.googleinput{
+    float:none;
+    text-align: center;
+}
+.googleinputset{
+    width: 500px;
+    height: 40px;
+}
+.googlebutton{
+    float:none;
+    text-align: center;
+}
